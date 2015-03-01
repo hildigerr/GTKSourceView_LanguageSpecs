@@ -93,6 +93,9 @@
           <keyword>of</keyword>
           <keyword>create</keyword>
           <keyword>every</keyword>
+          <keyword>to</keyword>
+          <keyword>by</keyword>
+          <keyword>while</keyword>
           <keyword>do</keyword>
           <keyword>fail</keyword>
           <keyword>if</keyword>
@@ -104,12 +107,15 @@
           <keyword>return</keyword>
           <keyword>suspend</keyword>
           <keyword>until</keyword>
-          <keyword>while</keyword>
-          <keyword>link</keyword>
           <keyword>stop</keyword>
+          <keyword>exit</keyword>
+          <keyword>link</keyword>
           <keyword>procedure</keyword>
           <keyword>end</keyword>
           <keyword>local</keyword>
+          <keyword>static</keyword>
+          <keyword>global</keyword>
+          <keyword>record</keyword>
         </context>
 
       </include>
