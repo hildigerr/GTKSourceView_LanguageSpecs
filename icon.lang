@@ -109,14 +109,7 @@
           <keyword>stop</keyword>
           <keyword>procedure</keyword>
           <keyword>end</keyword>
-          <keyword>write</keyword>
-          <keyword>find</keyword>
-          <keyword>match</keyword>
-          <keyword>read</keyword>
-          <keyword>seq</keyword>
-          <keyword>pos</keyword>
-          <keyword>move</keyword>
-          <keyword>tab</keyword>
+          <keyword>local</keyword>
         </context>
 
       </include>
